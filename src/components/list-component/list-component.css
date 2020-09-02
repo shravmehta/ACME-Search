@@ -1,0 +1,14 @@
+.list-container{
+    height: 70%;
+    margin: 10px auto;
+    padding-left: 10px;
+   
+}
+
+.list-content{
+    display: inline-block;
+    padding-right: 10px;
+  
+}
+
+
